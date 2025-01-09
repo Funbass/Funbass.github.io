@@ -1,0 +1,77 @@
+BasicInfo:
+  FirstName: Александр 
+  LastName: Царегородцев
+  Photo: img/павел.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +79600959455
+    - Icon: fas fa-envelope
+      Info: Funbasskek@gmail.com
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://ines-almeida.com" target="_blank">sanya_snickers.com</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Russia
+
+Profile: Я студент ФГБОУ ВО "Политехнического государственного технологического университета". Обучаюсь на 3 курсе по специальности программная инженерия.
+
+Experience:
+  - Employer: Omega
+    Place: Oxford, UK
+    Positions:
+      - Title: android-разработчик
+        Date: Июнь 2022 - Июль 2022 
+        Details:
+          - Принимал участие в разработке приложения для бронирования авиабилеты.
+          - Реализовал базу данных для приложения.
+          - Сверстал макет для приложения по дизайну с Figma.
+        Badges: ['Kotlin', 'Django', 'OOP', 'Android studio', 'Figma']
+
+
+Education:
+  - Course: Факультет информационной и вычислительной техники 
+    Place: Поволжский государственный технологический институт
+    Date: Сентябрь 2022 - Июль 2026
+    Details: Программная инженерия 
+
+References:
+  - Name: Александр
+    Relation: Коллега в супер крутую компанию
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +79600959455
+    - Icon: fas fa-envelope
+      Info: Funbasskek.com
+    - Icon: fas fa-map-marker-alt
+      Info: Yoshkar-Ola, Russia
+
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - HTML (including Jinja)
+      - Javascript
+      - CSS
+      - Kotlin
+      - SQL
+      - C++
+      
+  - Family: Frameworks
+    Items:
+      - Django
+      - React
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Jenkins
+Languages:
+  - Name: English
+    Level: B1
+
+Diplomas:
+  - Русский медвежонок (2019)
+
+Interests:
+  - Музыка
+  - Баскетбол
